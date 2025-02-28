@@ -1,0 +1,7 @@
+.Rproj.user/
+
+# Ignore specific JSON files in 'generate photo and code/house/new terr data'
+generate photo and code/house/new terr data/all_properties_20241226_022354_updated.json
+generate photo and code/house/new terr data/all_properties_20241226_022354_updated_indent.json
+generate photo and code/house/new terr data/all_transactions_20241226_025003_updated.json
+generate photo and code/house/new terr data/all_transactions_20241226_025003_updated_indent.json

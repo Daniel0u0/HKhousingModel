@@ -1,0 +1,22 @@
+From the scatter plot matrix of traffic accident data and severity levels, we can observe the following key conclusions:
+
+### High Correlation Among Annual Data:
+- Traffic accident counts across different years (2020, 2021, 2022) exhibit extremely high positive correlations (correlation coefficients close to 0.95 or higher), indicating that the distribution patterns of traffic accidents across different regions remain relatively stable over the years.
+- However, the 2023 data shows lower correlations with other years (approximately 0.4–0.5), likely due to incomplete data or specific events (e.g., the impact of the pandemic) that may have caused changes in traffic patterns.
+
+### Significant Correlation Between Total and Minor Accidents:
+- The total number of traffic accidents (`Total`) is highly correlated with the number of minor accidents (`Minor`), with a correlation coefficient of 0.996. This suggests that minor accidents make up the majority of total traffic accidents.
+- The number of minor accidents is significantly higher than fatal and serious accidents, indicating that most traffic accidents are of lower severity.
+
+### Low Correlation Between Fatal Accidents and Other Variables:
+- Fatal accidents (`Fatal`) show relatively low correlations with other variables (e.g., annual data, total accidents), with correlation coefficients ranging from 0.08 to 0.58.
+- This suggests that the occurrence of fatal accidents may be influenced by external factors (e.g., traffic planning, law enforcement, environmental conditions) rather than being directly tied to total accidents or annual trends.
+
+### Moderate Correlation Between Serious Accidents and Other Variables:
+- Serious accidents (`Serious`) show moderate positive correlations with other variables (e.g., annual data, total accidents), with correlation coefficients ranging from approximately 0.28 to 0.62. This indicates that serious accident counts share some relationship with total and minor accidents, but the correlation is not as strong as for minor accidents.
+
+### Observations on Data Distribution and Patterns:
+- From the scatter plots, the data shows a certain linear trend between variables, especially among the annual data and between total and minor accidents.
+- However, the distributions of fatal and serious accidents appear more scattered, indicating higher variability and weaker correlations with other variables.
+
+These observations provide valuable insights into the relationships between traffic accident data and severity levels, highlighting trends and areas for further study.
